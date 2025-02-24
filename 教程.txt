@@ -1,0 +1,10 @@
+一款大多数导航网站使用且功能非常全面的导航主题，有能力的情况下还是劝大家支持正版。
+
+1.下载授权接口源码 onenav-auth-api.zip ，在宝塔新建一个网站，域名为 auth.iotheme.cn，设置wordpress伪静态，申请ssl证书。将上面源码解压后上传到此网站根目录。
+
+2. 在宝塔根目录etc下 hosts 中添加
+127.0.0.1 auth.iotheme.cn
+127.0.0.1 www.iotheme.cn
+
+3. 上传 onenav 主题源码到 WordPress网站theme中，授权码随便填写一个即可激活。
+更多资源：小Z资源网 https://zibovip.top
